@@ -1,0 +1,120 @@
+{
+ "version": 1,
+ "faces": [
+  {
+   "package": "com.felsh.wf.aura",
+   "name": "Aurora",
+   "image": "https://kplese.github.io/felsh/catalog/aura.webp"
+  },
+  {
+   "package": "com.felsh.wf.aviator",
+   "name": "Aviator",
+   "image": "https://kplese.github.io/felsh/catalog/aviator.webp"
+  },
+  {
+   "package": "com.felsh.wf.bauhaus",
+   "name": "Linea",
+   "image": "https://kplese.github.io/felsh/catalog/bauhaus.webp"
+  },
+  {
+   "package": "com.felsh.wf.bloomgarden",
+   "name": "Bloom Garden",
+   "image": "https://kplese.github.io/felsh/catalog/bloomgarden.webp"
+  },
+  {
+   "package": "com.felsh.wf.blueprint",
+   "name": "Blueprint",
+   "image": "https://kplese.github.io/felsh/catalog/blueprint.webp"
+  },
+  {
+   "package": "com.felsh.wf.bolddigital",
+   "name": "Stack Bold",
+   "image": "https://kplese.github.io/felsh/catalog/bolddigital.webp"
+  },
+  {
+   "package": "com.felsh.wf.brassatelier",
+   "name": "Brass Atelier",
+   "image": "https://kplese.github.io/felsh/catalog/brassatelier.webp"
+  },
+  {
+   "package": "com.felsh.wf.candycanechristmas",
+   "name": "Candy Cane Christmas",
+   "image": "https://kplese.github.io/felsh/catalog/candycanechristmas.webp"
+  },
+  {
+   "package": "com.felsh.wf.chrono",
+   "name": "Apex Chrono",
+   "image": "https://kplese.github.io/felsh/catalog/chrono.webp"
+  },
+  {
+   "package": "com.felsh.wf.coralreef",
+   "name": "Coral Reef",
+   "image": "https://kplese.github.io/felsh/catalog/coralreef.webp"
+  },
+  {
+   "package": "com.felsh.wf.cosylights",
+   "name": "Cozy Christmas Lights",
+   "image": "https://kplese.github.io/felsh/catalog/cosylights.webp"
+  },
+  {
+   "package": "com.felsh.wf.diver",
+   "name": "Abyss Diver",
+   "image": "https://kplese.github.io/felsh/catalog/diver.webp"
+  },
+  {
+   "package": "com.felsh.wf.glasscards",
+   "name": "Glass Cards",
+   "image": "https://kplese.github.io/felsh/catalog/glasscards.webp"
+  },
+  {
+   "package": "com.felsh.wf.ironside",
+   "name": "Ironside",
+   "image": "https://kplese.github.io/felsh/catalog/ironside.webp"
+  },
+  {
+   "package": "com.felsh.wf.lunar",
+   "name": "Lunar",
+   "image": "https://kplese.github.io/felsh/catalog/lunar.webp"
+  },
+  {
+   "package": "com.felsh.wf.nativitysweater",
+   "name": "Christmas Sweater",
+   "image": "https://kplese.github.io/felsh/catalog/nativitysweater.webp"
+  },
+  {
+   "package": "com.felsh.wf.nightowl",
+   "name": "Night Owl",
+   "image": "https://kplese.github.io/felsh/catalog/nightowl.webp"
+  },
+  {
+   "package": "com.felsh.wf.opspanel",
+   "name": "Ops Panel",
+   "image": "https://kplese.github.io/felsh/catalog/opspanel.webp"
+  },
+  {
+   "package": "com.felsh.wf.pulsegrid",
+   "name": "Pulse Grid",
+   "image": "https://kplese.github.io/felsh/catalog/pulsegrid.webp"
+  },
+  {
+   "package": "com.felsh.wf.spacevoyage",
+   "name": "Space Voyage",
+   "image": "https://kplese.github.io/felsh/catalog/spacevoyage.webp"
+  },
+  {
+   "package": "com.felsh.wf.sprinkles",
+   "name": "Sprinkles",
+   "image": "https://kplese.github.io/felsh/catalog/sprinkles.webp"
+  },
+  {
+   "package": "com.felsh.wf.tickring",
+   "name": "Tick Ring",
+   "image": "https://kplese.github.io/felsh/catalog/tickring.webp"
+  },
+  {
+   "package": "com.felsh.wf.tubeglow",
+   "name": "Glowtube",
+   "image": "https://kplese.github.io/felsh/catalog/tubeglow.webp"
+  }
+ ]
+}
