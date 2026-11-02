@@ -2,9 +2,19 @@
  "version": 1,
  "faces": [
   {
+   "package": "com.felsh.wf.aperture",
+   "name": "Aperture",
+   "image": "https://kplese.github.io/felsh/catalog/aperture.webp"
+  },
+  {
    "package": "com.felsh.wf.aura",
    "name": "Aurora",
    "image": "https://kplese.github.io/felsh/catalog/aura.webp"
+  },
+  {
+   "package": "com.felsh.wf.auralite",
+   "name": "Aurora Lite",
+   "image": "https://kplese.github.io/felsh/catalog/auralite.webp"
   },
   {
    "package": "com.felsh.wf.aviator",
