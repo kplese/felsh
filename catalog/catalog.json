@@ -13,6 +13,16 @@
    "image": "https://kplese.github.io/felsh/catalog/mixtape.webp"
   },
   {
+   "package": "com.felsh.wf.pitwall",
+   "name": "Pit Wall",
+   "image": "https://kplese.github.io/felsh/catalog/pitwall.webp"
+  },
+  {
+   "package": "com.felsh.wf.arcade",
+   "name": "Arcade",
+   "image": "https://kplese.github.io/felsh/catalog/arcade.webp"
+  },
+  {
    "package": "com.felsh.wf.aperture",
    "name": "Aperture",
    "image": "https://kplese.github.io/felsh/catalog/aperture.webp"
@@ -88,11 +98,6 @@
    "image": "https://kplese.github.io/felsh/catalog/glasscards.webp"
   },
   {
-   "package": "com.felsh.wf.ironside",
-   "name": "Ironside",
-   "image": "https://kplese.github.io/felsh/catalog/ironside.webp"
-  },
-  {
    "package": "com.felsh.wf.lunar",
    "name": "Lunar",
    "image": "https://kplese.github.io/felsh/catalog/lunar.webp"
@@ -106,11 +111,6 @@
    "package": "com.felsh.wf.nightowl",
    "name": "Night Owl",
    "image": "https://kplese.github.io/felsh/catalog/nightowl.webp"
-  },
-  {
-   "package": "com.felsh.wf.opspanel",
-   "name": "Ops Panel",
-   "image": "https://kplese.github.io/felsh/catalog/opspanel.webp"
   },
   {
    "package": "com.felsh.wf.pulsegrid",
