@@ -13,6 +13,11 @@
    "image": "https://kplese.github.io/felsh/catalog/mixtape.webp"
   },
   {
+   "package": "com.felsh.wf.expedition",
+   "name": "Expedition",
+   "image": "https://kplese.github.io/felsh/catalog/expedition.webp"
+  },
+  {
    "package": "com.felsh.wf.pitwall",
    "name": "Pit Wall",
    "image": "https://kplese.github.io/felsh/catalog/pitwall.webp"
