@@ -3,6 +3,16 @@
  "events": "https://felsh-events.felsh-watches.workers.dev/e",
  "faces": [
   {
+   "package": "com.felsh.wf.quadrant",
+   "name": "Quadrant",
+   "image": "https://kplese.github.io/felsh/catalog/quadrant.webp"
+  },
+  {
+   "package": "com.felsh.wf.bleed",
+   "name": "Bleed",
+   "image": "https://kplese.github.io/felsh/catalog/bleed.webp"
+  },
+  {
    "package": "com.felsh.wf.ridgeline",
    "name": "Ridgeline",
    "image": "https://kplese.github.io/felsh/catalog/ridgeline.webp"
