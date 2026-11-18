@@ -3,6 +3,16 @@
  "events": "https://felsh-events.felsh-watches.workers.dev/e",
  "faces": [
   {
+   "package": "com.felsh.wf.flask",
+   "name": "Flask",
+   "image": "https://kplese.github.io/felsh/catalog/flask.webp"
+  },
+  {
+   "package": "com.felsh.wf.recon",
+   "name": "Recon",
+   "image": "https://kplese.github.io/felsh/catalog/recon.webp"
+  },
+  {
    "package": "com.felsh.wf.flywheel",
    "name": "Flywheel",
    "image": "https://kplese.github.io/felsh/catalog/flywheel.webp"
