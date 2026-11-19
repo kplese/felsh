@@ -181,6 +181,11 @@
    "package": "com.felsh.wf.vent",
    "name": "Vent",
    "image": "https://kplese.github.io/felsh/catalog/vent.webp"
+  },
+  {
+   "package": "com.felsh.wf.bulwark",
+   "name": "Bulwark",
+   "image": "https://kplese.github.io/felsh/catalog/bulwark.webp"
   }
  ]
 }
